@@ -4,3 +4,8 @@ header{
     background-size: cover;
     height: 100vh;
 }
+
+.img-size{
+    height: 24px;
+    width: 24px;
+}
