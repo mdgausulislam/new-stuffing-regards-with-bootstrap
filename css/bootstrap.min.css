@@ -3507,7 +3507,7 @@ fieldset:disabled .btn {
 
 .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #0d6efd;
+    --bs-btn-bg: #282563;
     --bs-btn-border-color: #0d6efd;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: #0b5ed7;
@@ -9461,12 +9461,12 @@ fieldset:disabled .btn {
 
 .text-success {
     --bs-text-opacity: 1;
-    color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important
+    color: #282563 !important
 }
 
 .text-info {
     --bs-text-opacity: 1;
-    color: rgba(var(--bs-info-rgb), var(--bs-text-opacity)) !important
+    color: var(--nutral-600, #7A766C) !important
 }
 
 .text-warning {
@@ -9486,7 +9486,7 @@ fieldset:disabled .btn {
 
 .text-dark {
     --bs-text-opacity: 1;
-    color: rgba(var(--bs-dark-rgb), var(--bs-text-opacity)) !important
+    color: #333 !important
 }
 
 .text-black {
@@ -9765,7 +9765,7 @@ fieldset:disabled .btn {
 
 .bg-success {
     --bs-bg-opacity: 1;
-    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important
+    background-color: #515151!important
 }
 
 .bg-info {

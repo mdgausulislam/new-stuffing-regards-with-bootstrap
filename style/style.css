@@ -9,3 +9,27 @@ header{
     height: 24px;
     width: 24px;
 }
+.item-values {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 34px;
+    background-color: #1D9E49;
+    height: 165px;
+    width: 421px;
+    margin-bottom: -16px;
+    margin-left: -16px;
+    border-radius: 0px 0px 5px 5px;
+}
+.item-values1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 34px;
+    background-color:#282563;;
+    height: 165px;
+    width: 422px;
+    margin-bottom: -16px;
+    margin-left: -16px;
+    border-radius: 0px 0px 5px 5px;
+}
