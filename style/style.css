@@ -33,3 +33,9 @@ header{
     margin-left: -16px;
     border-radius: 0px 0px 5px 5px;
 }
+.card-body{
+    padding: var(--bs-card-spacer-y-0) var(--bs-card-spacer-x);
+}
+.row-1{
+    --bs-gutter-x: 0rem;
+}
